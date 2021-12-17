@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iitk-resources.github.io/sitemap.xml
